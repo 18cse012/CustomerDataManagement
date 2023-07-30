@@ -1,3 +1,4 @@
+
 package com.tarun.CustomerDataManagement.entity;
 
 import java.io.Serializable;
